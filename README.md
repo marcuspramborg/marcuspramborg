@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I am a second year student in Industrial Engineering and Management at KTH Royal Institute of Technology. I am always eager to learn and explore new technologies.<br><br>- 📚 I'm currently learning about computing systems and hardware.</p>
+<p align="left">I am a second year student in Industrial Engineering and Management at KTH Royal Institute of Technology. I am always eager to learn and explore new technologies.<br><br>📚 I'm currently learning about:<br>- Computing systems engineering and hardware.<br>- Applied computer science.<br>- Quantitative business and operations analysis.</p>
 
 ###
 
