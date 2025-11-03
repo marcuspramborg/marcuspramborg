@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I am a third year student in Industrial Engineering and Management at KTH Royal Institute of Technology, specializing in computer technology/computer science.<br><br>📚 I'm currently learning about:<br>- Software Engineering.<br>- Language Technology and Machine Learning.<br>- Internet Programming.</p>
+<p align="left">I am a fourth year student in Industrial Engineering and Management at KTH Royal Institute of Technology, currently studying for a masters degree in Software Engineering.<br><br>📚 I'm currently learning about:<br>- System Security.<br>- Artificial Intelligence.<br>- Computer Security.</p>
 
 ###
 
